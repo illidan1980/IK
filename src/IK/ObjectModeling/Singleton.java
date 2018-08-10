@@ -1,7 +1,7 @@
 package IK.ObjectModeling;
 
 /**
- * Created by Himanshu on 6/5/2016.
+ * Created  on 6/5/2016.
  */
 public class Singleton {
     private static final Singleton eagerSingleton = new Singleton();

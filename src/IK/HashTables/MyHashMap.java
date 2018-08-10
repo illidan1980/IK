@@ -1,7 +1,7 @@
 package IK.HashTables;
 
 /**
- * Created by Himanshu on 6/1/2016.
+ * Created  on 6/1/2016.
  */
 
 public class MyHashMap<K, V> {

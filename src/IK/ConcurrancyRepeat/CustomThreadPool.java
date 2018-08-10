@@ -1,7 +1,7 @@
 package IK.ConcurrancyRepeat;
 
 /**
- * Created by HIMANSHU on 6/1/2016.
+ * Created  on 6/1/2016.
  */
 public class CustomThreadPool {
     // have certain threads

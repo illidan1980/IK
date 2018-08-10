@@ -3,7 +3,7 @@ package IK.DP;
 import java.util.HashMap;
 
 /**
- * Created by HIMANSHU on 5/18/2016.
+ * Created on 5/18/2016.
  */
 public class CoinPlay {
     static int maxWinRecur(int[] intCoins, int start, int end, boolean myTurn, HashMap<Integer, HashMap<Integer, Integer>> mem){

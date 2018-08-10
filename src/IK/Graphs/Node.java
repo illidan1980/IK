@@ -3,7 +3,7 @@ package IK.Graphs;
 import java.util.List;
 
 /**
- * Created by HIMANSHU on 5/15/2016.
+ * Created  on 5/15/2016.
  */
 public class Node<T> {
     T data;

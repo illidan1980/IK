@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.HashMap;
 
 /**
- * Created by HIMANSHU on 5/18/2016.
+ * Created  on 5/18/2016.
  */
 public class KnightsTourPhoneDigits {
     static int numPhoneNumbers(int startdigit, int phonenumberlength) {

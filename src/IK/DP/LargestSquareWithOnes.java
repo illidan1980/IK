@@ -1,7 +1,7 @@
 package IK.DP;
 
 /**
- * Created by HIMANSHU on 5/18/2016.
+ * Created  on 5/18/2016.
  */
 public class LargestSquareWithOnes {
     static int maxSubmatrixRecur(int[][] arr, int max, int row, int column){

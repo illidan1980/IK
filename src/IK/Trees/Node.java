@@ -1,7 +1,7 @@
 package IK.Trees;
 
 /**
- * Created by HIMANSHU on 5/6/2016.
+ * Created  on 5/6/2016.
  */
 public class Node {
     int data;

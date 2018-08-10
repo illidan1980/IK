@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Created by HIMANSHU on 5/18/2016.
+ * Created  on 5/18/2016.
  */
 public class WordBreak {
     public static String wordBreak(String text, HashSet<String> dict){

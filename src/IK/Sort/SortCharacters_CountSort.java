@@ -1,7 +1,7 @@
 package IK.Sort;
 
 /**
- * Created by HIMANSHU on 4/29/2016.
+ * Created  on 4/29/2016.
  */
 public class SortCharacters_CountSort {
     static String sortString(String str){

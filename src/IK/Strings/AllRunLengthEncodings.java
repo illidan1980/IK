@@ -3,7 +3,7 @@ package IK.Strings;
 import java.util.Scanner;
 
 /**
- * Created by HIMANSHU on 5/17/2016.
+ * Created  on 5/17/2016.
  */
 public class AllRunLengthEncodings {
     public static void main(String[] args){

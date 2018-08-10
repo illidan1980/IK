@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by HIMANSHU on 5/16/2016.
+ * Created  on 5/16/2016.
  */
 public class LegalReentrantLock {
         private boolean           isLocked       = false;

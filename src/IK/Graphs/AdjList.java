@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by HIMANSHU on 5/15/2016.
+ * Created  on 5/15/2016.
  */
 public class AdjList<T> {
     List<Node<T>> list;

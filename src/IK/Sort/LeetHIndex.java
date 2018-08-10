@@ -14,7 +14,7 @@ package IK.Sort;
 import java.util.Arrays;
 
 /**
- * Created by HIMANSHU on 4/30/2016.
+ * Created  on 4/30/2016.
  */
 public class LeetHIndex {
     static int hIndex(int[] cit){

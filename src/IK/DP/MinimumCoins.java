@@ -3,7 +3,7 @@ package IK.DP;
 import java.util.Arrays;
 
 /**
- * Created by Himanshu on 6/30/2016.
+ * Created  on 6/30/2016.
  */
 public class MinimumCoins {
 

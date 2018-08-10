@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Arrays;
 
 /**
- * Created by HIMANSHU on 5/17/2016.
+ * Created  on 5/17/2016.
  */
 public class SuffixArray {
     private Suffix[] suffixes;

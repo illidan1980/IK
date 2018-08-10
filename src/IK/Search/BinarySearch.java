@@ -1,7 +1,7 @@
 package IK.Search;
 
 /**
- * Created by Himanshu on 6/5/2016.
+ * Created  on 6/5/2016.
  */
 public class BinarySearch {
     public static int bsearch(int[]arr, int target){

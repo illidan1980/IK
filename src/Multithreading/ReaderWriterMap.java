@@ -9,7 +9,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 /**
- * Created by HIMANSHU on 5/16/2016.
+ * Created  on 5/16/2016.
  */
 public class ReaderWriterMap {
 

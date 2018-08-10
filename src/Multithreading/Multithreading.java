@@ -3,7 +3,7 @@ package Multithreading;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * Created by HIMANSHU on 5/3/2016.
+ * Created  on 5/3/2016.
  */
 public class Multithreading {
     public static void main(String[] args){

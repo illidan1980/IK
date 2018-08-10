@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 /**
- * Created by HIMANSHU on 5/21/2016.
+ * Created  on 5/21/2016.
  */
 public class LargestBST {
     private static class Node{

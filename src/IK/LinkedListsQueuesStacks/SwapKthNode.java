@@ -1,7 +1,7 @@
 package IK.LinkedListsQueuesStacks;
 
 /**
- * Created by HIMANSHU on 5/20/2016.
+ * Created  on 5/20/2016.
  */
 public class SwapKthNode {
     private static class LinkedListNode {

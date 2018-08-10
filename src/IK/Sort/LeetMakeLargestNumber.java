@@ -5,7 +5,7 @@ import com.sun.deploy.util.ArrayUtil;
 import java.util.*;
 
 /**
- * Created by HIMANSHU on 4/30/2016.
+ * Created  on 4/30/2016.
  */
 public class LeetMakeLargestNumber {
     static class integerStringComprator implements Comparator<Integer> {

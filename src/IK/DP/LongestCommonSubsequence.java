@@ -1,7 +1,7 @@
 package IK.DP;
 
 /**
- * Created by HIMANSHU on 5/18/2016.
+ * Created  on 5/18/2016.
  */
 public class LongestCommonSubsequence {
     public static StringBuilder LCSrecur(String s1, String s2, int s1i, int s2i, StringBuilder sb, int sbi, StringBuilder sb1, StringBuilder sb2){

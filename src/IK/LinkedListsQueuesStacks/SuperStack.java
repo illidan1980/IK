@@ -1,7 +1,7 @@
 package IK.LinkedListsQueuesStacks;
 
 /**
- * Created by HIMANSHU on 5/19/2016.
+ * Created  on 5/19/2016.
  */
 
 import java.util.ArrayList;

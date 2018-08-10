@@ -1,7 +1,7 @@
 package IK.Sort;
 
 /**
- * Created by HIMANSHU on 4/30/2016.
+ * Created  on 4/30/2016.
  */
 public class LeetMaximumGap {
     // 4 6 2

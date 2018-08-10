@@ -3,7 +3,7 @@ package IK.HashTables;
 import java.util.*;
 
 /**
- * Created by Himanshu on 6/4/2016.
+ * Created  on 6/4/2016.
  */
 public class AnagramGroups {
     public static List <List< String >> findAnagrams(List < String > dictionary) {

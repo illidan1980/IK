@@ -9,7 +9,7 @@ import static java.lang.Math.max;
 import static java.util.concurrent.TimeUnit.NANOSECONDS;
 
 /**
- * Created by HIMANSHU on 5/16/2016.
+ * Created  on 5/16/2016.
  */
 public class RateLimiter {
 

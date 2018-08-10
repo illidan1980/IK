@@ -3,7 +3,7 @@ package IK.DP;
 import java.util.List;
 
 /**
- * Created by Himanshu on 6/25/2016.
+ * Created  on 6/25/2016.
  */
 public class MaximumSubarray {
 

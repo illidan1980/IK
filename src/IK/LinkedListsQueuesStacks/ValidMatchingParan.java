@@ -3,7 +3,7 @@ package IK.LinkedListsQueuesStacks;
 import java.util.Stack;
 
 /**
- * Created by HIMANSHU on 5/19/2016.
+ * Created  on 5/19/2016.
  */
 public class ValidMatchingParan {
     static boolean hasMatchingParantheses(String strExpression) {

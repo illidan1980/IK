@@ -1,7 +1,7 @@
 package IK.Strings;
 
 /**
- * Created by HIMANSHU on 5/17/2016.
+ * Created  on 5/17/2016.
  */
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

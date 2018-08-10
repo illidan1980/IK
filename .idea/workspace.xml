@@ -1,7 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a0c9b5d-3f98-4183-851e-854f20e89e11" name="Default Changelist" comment="" />
+    <list default="true" id="7a0c9b5d-3f98-4183-851e-854f20e89e11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/IK/ConcurrancyRepeat/CustomThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/ConcurrancyRepeat/CustomThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/ConstructTreeFromOrders/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/ConstructTreeFromOrders/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/DP/CoinPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/DP/CoinPlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/DP/CombinationsForFinalScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/DP/CombinationsForFinalScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/DP/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/DP/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/DP/KnightsTourPhoneDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/DP/KnightsTourPhoneDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/DP/LargestSquareWithOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/DP/LargestSquareWithOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/DP/LongestCommonSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/DP/LongestCommonSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/DP/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/DP/MaximumSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/DP/MinimumCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/DP/MinimumCoins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/DP/NumberOfSolutions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/DP/NumberOfSolutions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/DP/WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/DP/WordBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Graphs/AdjList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Graphs/AdjList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Graphs/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Graphs/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Graphs/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Graphs/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Graphs/SkipList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Graphs/SkipList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/HashTables/AnagramGroups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/HashTables/AnagramGroups.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/HashTables/EntrySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/HashTables/EntrySet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/HashTables/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/HashTables/MyHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/HashTables/TestPalindromicPermutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/HashTables/TestPalindromicPermutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/CloneSpecialList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/CloneSpecialList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/MergeSortLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/MergeSortLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/ReverseEveryKNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/ReverseEveryKNodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/SlidingWindowMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/SlidingWindowMaximum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/SuperStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/SuperStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/SwapKthNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/SwapKthNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/ValidMatchingParan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/ValidMatchingParan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/ZipList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/LinkedListsQueuesStacks/ZipList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/ObjectModeling/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/ObjectModeling/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Recursion/TowerOfHanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Recursion/TowerOfHanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Search/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Sort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Sort/LeetHIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Sort/LeetHIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Sort/LeetMakeLargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Sort/LeetMakeLargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Sort/LeetMaximumGap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Sort/LeetMaximumGap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Sort/LeetWiggleSort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Sort/LeetWiggleSort2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Sort/SortCharacters_CountSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Sort/SortCharacters_CountSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Sorting/IntersectionOfSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Sorting/IntersectionOfSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Strings/AllRunLengthEncodings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Strings/AllRunLengthEncodings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Strings/KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Strings/KMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Strings/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Strings/LongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Strings/LongestRepeatedSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Strings/LongestRepeatedSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Strings/LongestSubstrTwoDistinctChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Strings/LongestSubstrTwoDistinctChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Strings/MinWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Strings/MinWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Strings/RunLengthEncoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Strings/RunLengthEncoding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Strings/StringInterleave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Strings/StringInterleave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Strings/SuffixArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Strings/SuffixArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Strings/SuffixTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Strings/SuffixTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Trees/BSTIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Trees/BSTIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Trees/BinaryTreeToDoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Trees/BinaryTreeToDoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Trees/CloneTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Trees/CloneTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Trees/ContructTreeFrom2Traversals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Trees/ContructTreeFrom2Traversals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Trees/FlipTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Trees/FlipTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Trees/LargestBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Trees/LargestBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Trees/LeastCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Trees/LeastCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Trees/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Trees/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Trees/PopulateSiblingPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Trees/PopulateSiblingPointer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IK/Trees/UnivalTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IK/Trees/UnivalTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/BoundedHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/BoundedHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/CustomThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/CustomThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/LegalReentrantLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/LegalReentrantLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/Multithreading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/Multithreading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/MyConcurrentHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/MyConcurrentHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/ProducerConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/ProducerConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/RateLimiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/RateLimiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/ReaderWriterMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/ReaderWriterMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/ThreadPool.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,15 +88,17 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ini" value="1" />
-          <entry key="java" value="3" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="4" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit" />
+      <usages-collector id="statistics.file.types.edit" />
     </session>
   </component>
   <component name="FileEditorManager">
@@ -47,16 +118,44 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IK/DP/CoinPlay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+            <state relative-caret-position="85">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/IK/Recursion/TowerOfHanoi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>by Himanshu</find>
+      <find>Himanshu</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/IK/DP/CoinPlay.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -64,6 +163,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -110,6 +210,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="IK" type="462c0819:PsiDirectoryNode" />
               <item name="DP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IK" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,7 +301,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -228,8 +335,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/IK/DP/CoinPlay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IK/Recursion/TowerOfHanoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
     </entry>
